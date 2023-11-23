@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Zhyrgalbek</h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elmuratovich&label=Profile%20views&color=0e75b6&style=flat" alt="elmuratovich" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elmuratovich&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 
 - 🌱 I’m currently learning **Data Base**
 
-- 💬 Ask me about **Typescript, Javascript, Nodejs, Nestjs, Expressjs**
+- 💬 Ask me about **Java, Javascript, PHP, Python**
 
 - 📫 How to reach me **sharshenov.jr@gmail.com**
 
