@@ -12,3 +12,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=SharshenovJR&show_icons=true&theme=radical" alt="sharshenovJR"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharshenovJR&show_icons=true&locale=en&layout=compact&theme=radical" alt="sharshenovJR"/>
 </p>
+
+### 📊 Statistics:
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usbtypec1&theme=2077)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=usbtypec1&theme=2077)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=usbtypec1&theme=2077&utcOffset=6)
