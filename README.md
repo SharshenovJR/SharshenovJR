@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sharshenov.jr@gmail.com**
 
-<img align="left" alt="Coding" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690034956546/101c1694-7e87-458e-afd5-ab65c48c468e.gif"><br>
+<img align="left" alt="Coding" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690034956546/101c1694-7e87-458e-afd5-ab65c48c468e.gif">
 
 ### 📱 Tech Stack:
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
