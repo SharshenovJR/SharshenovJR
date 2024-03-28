@@ -20,7 +20,7 @@
   ![Jenkins](https://img.shields.io/badge/Jenkins-FCC624?style=for-the-badge&logo=jenkins&logoColor=black)
 
 ### 📊 Statistics:
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SharshenovJR&theme=2077)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SharshenovJR&theme=2077)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SharshenovJR&theme=2077&utcOffset=6)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SharshenovJR&theme=2077)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SharshenovJR&theme=algolia)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SharshenovJR&theme=algolia)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SharshenovJR&theme=algolia&utcOffset=6)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SharshenovJR&theme=algolia)
