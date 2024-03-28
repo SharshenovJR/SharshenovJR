@@ -19,6 +19,7 @@
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-FCC624?style=for-the-badge&logo=jenkins&logoColor=black)
 
 ### 📊 Statistics:
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SharshenovJR&theme=2077)
