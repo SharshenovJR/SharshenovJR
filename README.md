@@ -1,10 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, I'm Zhyrgalbek</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SharshenovJR&label=Profile%20views&color=0e75b6&style=flat" alt="SharshenovJR"/> </p>
 
-  ![Gmail](https://img.shields.io/badge/gmail:-%23316192.svg?style=for-the-badge&logo=gmail&logoColor=white) ![sharshenov.jr@gmail.com](https://img.shields.io/badge/sharshenov.jr@gmail.com-%23316192.svg?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/gmail:-%23316192.svg?style=for-the-badge&logo=gmail&logoColor=white) ![sharshenov.jr@gmail.com](https://img.shields.io/badge/sharshenov.jr@gmail.com-%23316192.svg?style=for-the-badge&logo=gmail&logoColor=white)
 
-### 🚀 Tech Stack:
-  ![Java](https://img.shields.io/badge/java-%2523092E20.svg?style=for-the-badge&logo=Java&logoColor=white)
+### 📱 Tech Stack:
+  ![Java](https://img.shields.io/badge/java-%2523092E20.svg?style=for-the-badge&logo=java&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-%232671E5.svg?style=for-the-badge&logo=MySQL&logoColor=white)
@@ -24,5 +24,3 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SharshenovJR&theme=algolia)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SharshenovJR&theme=algolia)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SharshenovJR&theme=algolia)
-  [![](http://github-readme-streak-stats.herokuapp.com?user=SharshenovJR&theme=algolia)](https://git.io/streak-stats)
-  ![](http://github-readme-streak-stats.herokuapp.com?user=SharshenovJR&theme=algolia)
