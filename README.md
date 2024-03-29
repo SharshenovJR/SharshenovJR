@@ -3,14 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=SharshenovJR&label=Profile%20views&color=0e75b6&style=flat" alt="SharshenovJR"/> 
 </p>
 
-<p align="center">
-  <a href="mailto:sharshenov.jr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://github.com/SharshenovJR">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-</p>
+  ![Gmail](https://img.shields.io/badge/gmail:-%23316192.svg?style=for-the-badge&logo=gmail&logoColor=white) ![sharshenov.jr@gmail.com](https://img.shields.io/badge/sharshenov.jr@gmail.com-%23316192.svg?style=for-the-badge&logo=gmail&logoColor=white)
 
 ### 🚀 Tech Stack:
   ![Java](https://img.shields.io/badge/java-%2523092E20.svg?style=for-the-badge&logo=Java&logoColor=white)
