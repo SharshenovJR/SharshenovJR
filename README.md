@@ -23,4 +23,3 @@
 ### 📊 Statistics:
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SharshenovJR&theme=algolia)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SharshenovJR&theme=algolia)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SharshenovJR&theme=algolia)
