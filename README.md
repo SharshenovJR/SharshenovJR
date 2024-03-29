@@ -28,4 +28,5 @@
 ### 📊 Statistics:
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=SharshenovJR&theme=algolia" alt="GitHub Streak">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SharshenovJR&theme=algolia">
 </p>
