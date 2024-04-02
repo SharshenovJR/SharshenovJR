@@ -5,7 +5,6 @@
 
 ### 📱 Tech Stack:
   ![Java](https://img.shields.io/badge/java-%2523092E20.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-%232671E5.svg?style=for-the-badge&logo=MySQL&logoColor=white)
   ![PHP](https://img.shields.io/badge/php-%2523092E20.svg?style=for-the-badge&logo=php&logoColor=white)
