@@ -7,7 +7,6 @@
   ![Java](https://img.shields.io/badge/java-%2523092E20.svg?style=for-the-badge&logo=java&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-%232671E5.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-  ![PHP](https://img.shields.io/badge/php-%2523092E20.svg?style=for-the-badge&logo=php&logoColor=white)
   ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-005571?style=for-the-badge&logo=postman)
   ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
