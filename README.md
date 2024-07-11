@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, I'm Zhyrgalbek</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SharshenovJR&label=Profile%20views&color=0e75b6&style=flat" alt="SharshenovJR"/> </p>
-<p align="left">
+<p align="center">
   <a href="https://user-badge.committers.top/kyrgyzstan_private/SharshenovJR" target="_blank">
     <img src="https://user-badge.committers.top/kyrgyzstan_private/SharshenovJR" alt="Committers Top Badge" style="border: 2px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   </a>
