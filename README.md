@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, I'm Zhyrgalbek</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SharshenovJR&label=Profile%20views&color=0e75b6&style=flat" alt="SharshenovJR"/> </p>
 
-[![committers.top badge](https://user-badge.committers.top/kyrgyzstan_private/SharshenovJR.svg)](https://user-badge.committers.top/kyrgyzstan_private/SharshenovJR)
+[![committers.top badge](https://user-badge.committers.top/kyrgyzstan_private/SharshenovJR.svg)](https://user-badge.committers.top/kyrgyzstan_private/SharshenovJR)<br>
 ![Gmail](https://img.shields.io/badge/gmail:-%23316192.svg?style=for-the-badge&logo=gmail&logoColor=white) ![sharshenov.jr@gmail.com](https://img.shields.io/badge/sharshenov.jr@gmail.com-%23316192.svg?style=for-the-badge&logo=gmail&logoColor=white)
 
 ### 📱 Tech Stack:
